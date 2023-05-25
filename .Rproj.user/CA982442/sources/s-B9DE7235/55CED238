@@ -1,0 +1,28 @@
+{
+    "id": "55CED238",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1678468293875.0,
+    "source_on_save": false,
+    "relative_order": 24,
+    "properties": {
+        "id": "8fb9027fd2e04e5db484a4bb728800fb",
+        "name": "Y_hat",
+        "title": "Y_hat",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2523690844176,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1678468293875,
+    "read_only": false,
+    "read_only_alternatives": []
+}

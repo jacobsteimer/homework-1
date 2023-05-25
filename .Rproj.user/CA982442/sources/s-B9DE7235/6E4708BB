@@ -1,0 +1,28 @@
+{
+    "id": "6E4708BB",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1678546892733.0,
+    "source_on_save": false,
+    "relative_order": 26,
+    "properties": {
+        "id": "cd780aa63ab94224ac9dc30889c710a6",
+        "name": "fitPR",
+        "title": "fitPR",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7143307332890734690,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1678546892733,
+    "read_only": false,
+    "read_only_alternatives": []
+}

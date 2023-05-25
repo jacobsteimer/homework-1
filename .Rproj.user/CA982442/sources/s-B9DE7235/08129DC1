@@ -1,0 +1,27 @@
+{
+    "id": "08129DC1",
+    "path": "~/RScripts/BaseballRegressions/Betting.R",
+    "project_path": "Betting.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1677021589797.0,
+    "source_on_save": false,
+    "relative_order": 19,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "25,54",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1677278244,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1677278244215,
+    "read_only": false,
+    "read_only_alternatives": []
+}

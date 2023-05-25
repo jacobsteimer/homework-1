@@ -1,0 +1,27 @@
+{
+    "id": "A7A292E8",
+    "path": "~/RScripts/BaseballRegressions/notes.R",
+    "project_path": "notes.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1675727696402.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "179,23",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1676418109,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1676418109167,
+    "read_only": false,
+    "read_only_alternatives": []
+}

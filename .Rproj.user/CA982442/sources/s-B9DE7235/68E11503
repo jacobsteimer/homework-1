@@ -1,0 +1,28 @@
+{
+    "id": "68E11503",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1678547522366.0,
+    "source_on_save": false,
+    "relative_order": 27,
+    "properties": {
+        "id": "a8e3555d2fc34b0db611f2deb08d9ae8",
+        "name": "mnist_27",
+        "title": "mnist_27",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2523424978200,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1678547522366,
+    "read_only": false,
+    "read_only_alternatives": []
+}
